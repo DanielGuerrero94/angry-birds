@@ -1,0 +1,14 @@
+{
+  "name": "angry-birds",
+  "version": "1.0.0",
+  "description": "Object paradigm exam",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "author": "Daniel Guerrero",
+  "license": "LGPL v3"
+}
